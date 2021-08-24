@@ -1,0 +1,28 @@
+--------------------------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  S:\CTU\14. Study proposals\GASTRIC\Sample size\Jan2021\simtable.txt
+  log type:  text
+ opened on:   3 Feb 2021, 17:25:26
+
+. list, noobs sep(0)
+
+  +----------------------------------------------------------------------------------------------------------------------------+
+  |                      control_dist_daysv   contro~t                                int_dist_daysv   int_mort     rho   ss90 |
+  |----------------------------------------------------------------------------------------------------------------------------|
+  | Log-normal, median 2.9 lower quartile 1        4.2   Log-normal, median 3.36 lower quartile 1.16        4.2   0.477   4600 |
+  | Log-normal, median 2.9 lower quartile 1        4.2    Log-normal, median 3.4 lower quartile 1.17        4.2   0.475   4000 |
+  | Log-normal, median 2.9 lower quartile 1        4.2   Log-normal, median 3.44 lower quartile 1.19        4.2   0.473   3600 |
+  | Log-normal, median 2.9 lower quartile 1        4.2    Log-normal, median 3.48 lower quartile 1.2        4.2   0.471   3000 |
+  |   Log-normal, median 3 lower quartile 2        4.2   Log-normal, median 3.17 lower quartile 2.11        4.2   0.477   4400 |
+  |   Log-normal, median 3 lower quartile 2        4.2   Log-normal, median 3.19 lower quartile 2.13        4.2   0.475   4000 |
+  |   Log-normal, median 3 lower quartile 2        4.2   Log-normal, median 3.21 lower quartile 2.14        4.2   0.472   3400 |
+  |   Log-normal, median 3 lower quartile 2        4.2   Log-normal, median 3.23 lower quartile 2.15        4.2   0.469   2600 |
+  |   Log-normal, median 3 lower quartile 2        4.2   Log-normal, median 3.25 lower quartile 2.17        4.2   0.467   2600 |
+  +----------------------------------------------------------------------------------------------------------------------------+
+
+. log close
+      name:  <unnamed>
+       log:  S:\CTU\14. Study proposals\GASTRIC\Sample size\Jan2021\simtable.txt
+  log type:  text
+ closed on:   3 Feb 2021, 17:25:26
+--------------------------------------------------------------------------------------------------------------------------------------------
